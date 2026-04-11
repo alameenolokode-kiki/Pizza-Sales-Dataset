@@ -411,6 +411,8 @@ Understanding and optimizing these areas will have the biggest impact on profit.
 ### Data Visualization
 Data visualization was used to present insights in a clear and intuitive way. Line charts were used to display monthly sales trends, bar charts to rank top-selling pizzas, area charts to compare category performance, and pie charts to show revenue distribution by pizza size. Each visualization was selected based on its ability to clearly communicate specific insights. Together, these visuals provide a complete overview of sales performance.
 
+![](https://github.com/alameenolokode-kiki/Pizza-Sales-Dataset/blob/main/pizza%20dashboard.PNG)
+
 #### HOW ALL CHARTS WORK TOGETHER (BIG PICTURE)
 Each chart answers a different business question:
 Chart	Business Question
