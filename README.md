@@ -253,8 +253,9 @@ This helps identify seasonal patterns, such as:
 
   ### Total Revenue by Pizza
   
+     ![](https://github.com/alameenolokode-kiki/Pizza-Sales-Dataset/blob/main/Total%20Revenue%20By%20Pizza.PNG)
 
-   What data this chart uses
+   #### vWhat data this chart uses
 
 -	Pizza Name 
 -	Total Revenue per Pizza 
