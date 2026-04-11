@@ -251,9 +251,43 @@ This helps identify seasonal patterns, such as:
   
 - Order more ingredients before high-demand periods
 
+
+### Top 5 Best Sales Pizza
+
+![](https://github.com/alameenolokode-kiki/Pizza-Sales-Dataset/blob/main/Top%205%20Best%20Selling%20Pizza.PNG)
+
+#### What data this chart uses
+
+-	Pizza Name 
+
+-	Total Revenue 
+
+#### What this chart really means:
+This chart zooms in on the core revenue drivers.
+
+-	These pizzas are responsible for a large portion of sales 
+
+-	Losing any of these could significantly affect revenue 
+  
+#### What the business should work on:
+
+-	Protect these products
+
+- Quality control, consistent taste 
+
+-	Premium positioning
+
+- Highlight as “Customer Favorites” 
+
+-	Use them in marketing campaigns 
+
+=	Test new variations based on these pizzas
+
+
+
   ### Total Revenue by Pizza
   
-     ![](https://github.com/alameenolokode-kiki/Pizza-Sales-Dataset/blob/main/Total%20Revenue%20By%20Pizza.PNG)
+   ![](https://github.com/alameenolokode-kiki/Pizza-Sales-Dataset/blob/main/Total%20Revenue%20By%20Pizza.PNG)
 
    #### vWhat data this chart uses
 
