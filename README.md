@@ -208,7 +208,88 @@ The following steps were performed:
 
 ## Data Analysis
 
- - 	Monthly Sales Trend
-    
+### Monthly Sales Trend
+
+ ![](https://github.com/alameenolokode-kiki/Pizza-Sales-Dataset/blob/main/Monthy%20sales%20Trend.PNG)
+
+#### What data this chart uses
+
+-	Order Date → grouped by month (January to December) 
+-	Total Sales Revenue → summed for each month 
+  
+#### What this chart really means 
+
+This chart shows how the business performs over time.
+
+- When the line goes up, it means sales are increasing. 
+
+- When the line goes down, it means fewer pizzas were sold or customers spent less. 
+
+-	Peaks show high-demand months. 
+
+-	Dips show slow periods. 
+
+This helps identify seasonal patterns, such as:
+-	Busy months (holidays, festivals, promotions) 
+
+-	Slow months (post-holiday or off-season periods) 
+
+#### What the business should work on 
+-	Study high-sales months
+
+- What, promotions, pricing, or events caused the increase? 
+
+-	Plan marketing for low-sales months
+
+-	 Discounts, bundles, or special offers 
+
+-	Staff planning
+
+- More staff in peak months, optimized staffing in slow months 
+
+-	Inventory control
+  
+- Order more ingredients before high-demand periods
+
+  ### Total Revenue by Pizza
+  
+
+   What data this chart uses
+
+-	Pizza Name 
+-	Total Revenue per Pizza 
+
+#### What this chart really means:
+
+This chart ranks pizzas from highest to lowest revenue.
+
+-	Longer bars = more money made 
+
+-	Shorter bars = less money made 
+
+### This reveals:
+
+- Customer favorites 
+
+- Strong menu items 
+
+-	Products driving most of the revenue 
+
+#### What the business should work on:
+
+-	Promote top pizzas more
+
+- Feature them on the menu or homepage 
+
+-	Ensure ingredients are always available
+
+- Avoid running out of best sellers 
+
+-	Bundle top pizzas with drinks or sides 
+
+-	Review low-ranking pizzas
+
+- Improve recipe, pricing, or remove from menu
+
 
 
