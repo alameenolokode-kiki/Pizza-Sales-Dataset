@@ -369,6 +369,7 @@ This chart shows customer size preference.
 
 ### Total Rveune By Pizza Category
 
+![](https://github.com/alameenolokode-kiki/Pizza-Sales-Dataset/blob/main/Total%20Reveune%20By%20Pizza%20Category.PNG)
 
 #### What data this chart uses
 
