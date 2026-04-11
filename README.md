@@ -21,11 +21,11 @@ The dataset used in this project contains records of pizza sales made by a resta
 
 -	[Data Analysis](https://github.com/alameenolokode-kiki/Pizza-Sales-Dataset/blob/main/README.md#data-visualization)
 
--	Data Visualization
+-	[Data Visualization](https://github.com/alameenolokode-kiki/Pizza-Sales-Dataset/edit/main/README.md#data-visualization)
 
--	Recommendations
+-	[Recommendations](https://github.com/alameenolokode-kiki/Pizza-Sales-Dataset/edit/main/README.md#recommendation)
 
--	Conclusion
+-	[Conclusion]( https://github.com/alameenolokode-kiki/Pizza-Sales-Dataset/edit/main/README.md#conclusion)
 
   ## Document Purpose
 The purpose of this document is to provide a detailed explanation of the Pizza Sales Dashboard. It explains the data used, the analysis performed, and how each visualization contributes to understanding sales performance and supporting business decisions.
