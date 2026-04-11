@@ -208,7 +208,7 @@ The following steps were performed:
 
 ## Data Analysis
 
- - 1.	Monthly Sales Trend
+ - 	Monthly Sales Trend
     
 
 
