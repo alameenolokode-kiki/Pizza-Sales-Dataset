@@ -326,5 +326,83 @@ This chart ranks pizzas from highest to lowest revenue.
 
 - Improve recipe, pricing, or remove from menu
 
+### Top Sales By Pizza Size 
+
+![](https://github.com/alameenolokode-kiki/Pizza-Sales-Dataset/blob/main/Total%20Revenune%20By%20Pizza%20Size.PNG)
+
+What data this chart uses
+
+-	Pizza Size (S, M, L, XL, XXL) 
+
+-	Total Revenue per Size 
+
+#### What this chart really means:
+
+This chart shows customer size preference.
+
+-	Bigger slices = more revenue from that size 
+
+-	Smaller slices = less customer demand 
+
+#### This reflects:
+
+-	Eating habits (individual vs group orders) 
+
+-	Price sensitivity 
+
+-	Value perception 
+
+#### What the business should work on:
+
+-	Stock popular sizes more
+→ Dough, boxes, toppings
+ 
+-	Upsell smaller sizes
+→ “Upgrade to Large for a small extra cost” 
+
+-	Reprice unpopular sizes
+→ Adjust pricing to increase demand 
+
+-	Design family or party deals
+→ For popular large sizes
 
 
+### Total Rveune By Pizza Category
+
+
+#### What data this chart uses
+
+-	Pizza Category (Chicken, Classic, Supreme, Veggie) 
+
+-	Total Revenue per Category 
+
+#### What this chart really means:
+
+This chart compares broad product groups instead of individual pizzas.
+
+#### It answers:
+- Which type of pizza sells best overall? 
+-	Where does most revenue come from? 
+#### For example:
+
+-	A high-performing category means strong customer demand 
+
+-	A low-performing category may need attention 
+
+#### What the business should work on:
+
+-	Double down on strong categories
+→ Add more varieties under top categories 
+
+-	Improve weaker categories
+→ New flavors, better pricing, or promotions 
+
+-	Category-based promotions
+→ “Chicken Pizza Week” or “Veggie Specials” 
+
+-	Menu balance
+→ Avoid overloading weak categories
+
+#### FINAL BUSINESS INSIGHT
+A small number of pizzas, sizes, and categories contribute the majority of revenue.
+Understanding and optimizing these areas will have the biggest impact on profit.
